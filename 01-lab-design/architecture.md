@@ -40,9 +40,8 @@ DC01
 ├── Active Directory
 ├── DNS
 └── Domain Controller
-         │
-         │
-         ↓
-       PC01
- Windows 11 Client
-
+       │
+       │
+       ↓
+     PC01
+Windows 11 Client
