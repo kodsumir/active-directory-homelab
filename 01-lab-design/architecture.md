@@ -1,3 +1,9 @@
+# Active Directory Lab Architecture
+
+## Objective
+
+Build a small Windows-based company environment using Windows Server and Windows 11 virtual machines.
+
 The lab is designed to practice Active Directory, DNS, users, groups, Group Policy, permissions, PowerShell administration, and troubleshooting.
 
 ## Virtual machines
