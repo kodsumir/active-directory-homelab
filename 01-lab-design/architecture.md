@@ -35,6 +35,7 @@ The lab uses a private virtual network in VMware.
 
 ## Architecture
 
+```text
 DC01
 │
 ├── Active Directory
@@ -45,3 +46,4 @@ DC01
        ↓
      PC01
 Windows 11 Client
+```
